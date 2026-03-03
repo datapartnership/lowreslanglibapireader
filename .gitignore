@@ -1,0 +1,5 @@
+.venv/
+my-output/
+swagger.json
+__pycache__/
+*.egg-info/
