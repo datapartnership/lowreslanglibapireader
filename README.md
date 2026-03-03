@@ -1,6 +1,6 @@
 # DDPLRLL Dataset Reader
 
-Python client for the **Nation Newspaper Dataset API**.  
+Python client for the **Low Resource Language Library API**.  
 Queries Croissant JSON-LD metadata, downloads the referenced PDF files, and saves a local JSON-LD with rewritten file paths.
 
 ## Installation
